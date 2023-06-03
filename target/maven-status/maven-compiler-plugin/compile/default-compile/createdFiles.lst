@@ -1,0 +1,5 @@
+br\edu\ifnmg\gestaocontratos\client\Client.class
+br\edu\ifnmg\gestaocontratos\repository\DbConnection.class
+br\edu\ifnmg\gestaocontratos\entity\Entity.class
+br\edu\ifnmg\gestaocontratos\GestaoContratos.class
+br\edu\ifnmg\gestaocontratos\client\ClientDao.class
